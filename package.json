@@ -1,11 +1,19 @@
 {
-  "name": "types-urijs",
+  "name": "@types/urijs",
   "version": "1.15.31",
-  "description": "types for URI.js",
-  "main": "./index.d.ts",
-  "main": "./index.d.ts",
+  "description": "TypeScript definitions for URI.js 1.15.1",
+  "license": "MIT",
+  "author": "RodneyJT <https://github.com/RodneyJT>, Brian Surowiec <https://github.com/xt0rted>",
+  "main": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/talis/types-urijs.git"
-  }
+  },
+  "scripts": {
+
+  },
+  "peerDependencies": {
+
+  },
+  "typings": "index.d.ts",
 }
