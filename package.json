@@ -1,0 +1,11 @@
+{
+  "name": "types-urijs",
+  "version": "1.15.31",
+  "description": "types for URI.js",
+  "main": "./index.d.ts",
+  "main": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talis/types-urijs.git"
+  }
+}
